@@ -1,0 +1,22 @@
+.dashboard-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #E8E7EA;
+}
+
+.main-content {
+  flex: 1;
+  margin-left: 240px; /* mesma largura da sidebar */
+  display: flex;
+  flex-direction: column;
+  background-color: #E8E7EA;
+  width: calc(100% - 240px);
+}
+
+.dashboard-content {
+  flex: 1;
+  padding: 2rem;
+  background-color: #E8E7EA; /* fundo cinza */
+  overflow-y: auto;
+}
+
