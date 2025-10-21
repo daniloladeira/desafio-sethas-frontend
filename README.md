@@ -4,7 +4,15 @@
   <img src="./src/assets/corp_readme.svg">
 </p>
 <br>
-A empresa terceirizada da SETHAS, a CORP., está precisando dos seus serviços para desenvolver algumas funcionalidades em seu sistema.
+A empresa ficticia terceirizada da SETHAS, a CORP., está precisando dos seus serviços para desenvolver algumas funcionalidades em seu sistema.
+
+---
+
+## 🔗 URL da API
+
+**Base URL:** `http://10.17.0.204/api/pessoas`
+
+Esta é a URL base para fazer todas as requisições relacionadas ao cadastro de pessoas.
 
 ---
 
