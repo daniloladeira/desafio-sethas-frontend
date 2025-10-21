@@ -40,11 +40,11 @@ A empresa terceirizada da SETHAS, a CORP., está precisando dos seus serviços p
 
 ### HU02 - Consultar Detalhes da Pessoa
 
-💬 Como usuário do sistema, quero consultar os detalhes completos de uma pessoa para obter todas as informações relacionadas a ela.
+💬 Como usuário do sistema, quero abrir um modal e consultar os detalhes completos de uma pessoa para obter todas as informações relacionadas a ela.
 
 **Critérios de Aceite:**
 - O sistema deve permitir consultar detalhes de uma pessoa.
-- Deve exibir todos os dados cadastrados:
+- Deve exibir todos os dados cadastrados **em um modal**:
   - Nome completo  
   - CPF  
   - E-mail  
