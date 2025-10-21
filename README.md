@@ -10,7 +10,7 @@ A empresa ficticia terceirizada da SETHAS, a CORP., está precisando dos seus se
 
 ## 🔗 URL da API
 
-**Base URL:** `http://10.17.0.204/api/pessoas`
+**Base URL:** `http://10.17.0.204:8000/api/pessoas`
 
 Esta é a URL base para fazer todas as requisições relacionadas as pessoas.
 
