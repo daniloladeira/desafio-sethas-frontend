@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://10.17.0.204:8000',
+        target: 'https://api-teste-prtt.onrender.com',
         changeOrigin: true,
         secure: false,
       }
